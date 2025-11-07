@@ -1,1 +1,1 @@
-!image(/assets/test.drawio.png)
+![Ex1](/assets/test.drawio.png)
